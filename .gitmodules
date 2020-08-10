@@ -1,0 +1,6 @@
+[submodule "node_proffy"]
+	path = node_proffy
+	url = https://github.com/CaaioSB/node-nlw2-proffy.git
+[submodule "api_proffy"]
+	path = api_proffy
+	url = https://github.com/CaaioSB/node-nlw2-proffy.git
